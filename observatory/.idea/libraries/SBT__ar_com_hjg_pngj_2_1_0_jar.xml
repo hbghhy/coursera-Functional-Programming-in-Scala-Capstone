@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: ar.com.hjg:pngj:2.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/ar/com/hjg/pngj/2.1.0/pngj-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.coursier/cache/v1/http/repox.gtan.com%3A8078/ar/com/hjg/pngj/2.1.0/pngj-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
